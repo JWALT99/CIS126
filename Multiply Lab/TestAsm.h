@@ -1,0 +1,1 @@
+extern "C" unsigned int multiply(byte,byte);
